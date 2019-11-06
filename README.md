@@ -37,6 +37,15 @@
 - 1.4 - прихожая у зала nc
 
 
+# Patch pannels
+- 1-4 - TV
+- 5-4 - Flat wall sockets
+- 17-18 MegaD
+- 19-20 Kladovka
+- 21
+- 22
+- 23 Kafe
+- 24 ISP
 
 
 # Electric cross
