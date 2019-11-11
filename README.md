@@ -39,7 +39,7 @@
 
 # Patch pannels
 - 1-4 - TV
-- 5-4 - Flat wall sockets
+- 5-14 - Flat wall sockets
 - 15 - Эл. Счётчик
 - 16 - Тепловой Счётчик
 - 17-18 MegaD
